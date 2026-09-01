@@ -122,9 +122,7 @@
 
 ## 🔥 Contribution Graph
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeeba-Aslam2003&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeeba-Aslam2003&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
