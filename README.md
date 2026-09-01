@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Adeeba+Aslam" alt="Hi, I'm Adeeba Aslam" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=9BE9A8&center=true&vCenter=true&width=750&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications" alt="Software Engineer | Full-Stack Developer | AI Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Adeeba+Aslam" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=900&color=9BE9A8&center=true&vCenter=true&width=750&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+%26+User-Focused+Applications" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/adeeba-aslam-cs/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:adeebaslam054@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
+
 <a href="https://adeebaaslamportfolio.lovable.app">
 <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+
+<a href="mailto:adeebaslam054@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -31,23 +33,23 @@
 </div>
 
 <p align="center">
-Software Engineer and Full-Stack Developer passionate about building
-<strong>scalable, reliable, and user-focused applications.</strong>
+I'm a <strong>Software Engineer and Full-Stack Developer</strong> passionate about
+building scalable, reliable, and user-focused applications.
 </p>
 
 <p align="center">
-🤖 Exploring Artificial Intelligence & Machine Learning<br>
+🤖 Exploring Artificial Intelligence and Machine Learning<br>
 💻 Building modern full-stack applications<br>
-🧩 Solving challenging problems with clean and efficient solutions<br>
-🌱 Continuously learning Software Engineering, AI & System Design
+🧩 Enjoy solving challenging problems and creating real-world solutions<br>
+🌱 Continuously improving my skills in software development, AI, and system design
 </p>
+
+<br>
 
 <div align="center">
 
-### 🌐 Explore My Work
-
 <a href="https://adeebaaslamportfolio.lovable.app">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white"/>
+<img src="https://img.shields.io/badge/✨_Explore_My_Portfolio-36BCF7?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
@@ -60,7 +62,7 @@ Software Engineer and Full-Stack Developer passionate about building
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -73,13 +75,13 @@ Software Engineer and Full-Stack Developer passionate about building
 
 <br><br>
 
-### 🌐 Full-Stack Development
+### 🌐 Full-Stack
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 <br><br>
@@ -109,7 +111,7 @@ Software Engineer and Full-Stack Developer passionate about building
 
 <br><br>
 
-### 🛠️ Tools & Version Control
+### 🛠️ Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -124,7 +126,9 @@ Software Engineer and Full-Stack Developer passionate about building
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adeeba-Aslam2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Adeeba-Aslam2003&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
@@ -142,28 +146,9 @@ Software Engineer and Full-Stack Developer passionate about building
 
 <div align="center">
 
-## 🧠 Currently Learning
+## 🌱 What I'm Exploring
 
-**Data Structures & Algorithms** · **Backend Development** · **System Design**  
-**Artificial Intelligence** · **Machine Learning** · **Scalable Application Architecture**
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-## ✨ Let's Connect & Build
-
-<a href="https://www.linkedin.com/in/adeeba-aslam-cs/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://adeebaaslamportfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore-36BCF7?style=for-the-badge&logo=firefox&logoColor=white"/>
-</a>
+Software Engineering • Backend Development • AI/ML • System Design
 
 </div>
 
@@ -171,6 +156,6 @@ Software Engineer and Full-Stack Developer passionate about building
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=0:36BCF7,50:7C3AED,100:EC4899" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn&color=gradient" />
 
 </div>
