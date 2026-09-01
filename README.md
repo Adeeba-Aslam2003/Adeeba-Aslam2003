@@ -130,10 +130,10 @@
 
 ---
 
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=9BE9A8&center=true&vCenter=true&width=700&lines=%E2%9C%A8+Thanks+for+Visiting!;%F0%9F%92%99+Thanks+for+stopping+by!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=%E2%9C%A8%20Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Keep%20building%20%E2%80%A2%20Keep%20learning%20%E2%80%A2%20Keep%20growing&descSize=16&descAlignY=65&descAlign=50&animation=twinkling&color=gradient"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=gradient"/>
