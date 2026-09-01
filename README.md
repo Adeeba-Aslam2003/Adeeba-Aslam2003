@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Adeeba+Aslam" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I'm+Adeeba+Aslam&repeat=false" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=9BE9A8&center=true&vCenter=true&width=750&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Real-World+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=9BE9A8&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Turning+Ideas+Into+Real-World+Solutions" />
 
 <br><br>
 
@@ -17,7 +17,7 @@
 </a>
 
 <a href="mailto:adeebaslam054@gmail.com">
-<img src="https://img.shields.io/badge/adeebaslam054%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -26,29 +26,12 @@
 
 ---
 
-<div align="center">
-
 ## 🚀 About Me
 
-</div>
-
-<p align="center">
-I'm a <strong>Software Engineer & Full-Stack Developer</strong> passionate about building
-scalable applications and solving real-world problems through technology.
-</p>
-
-<p align="center">
-🤖 Exploring AI & Machine Learning &nbsp; • &nbsp;
-💻 Building Full-Stack Applications &nbsp; • &nbsp;
-🧩 Solving Problems &nbsp; • &nbsp;
-🌱 Always Learning
-</p>
-
-<p align="center">
-<a href="https://adeebaaslamportfolio.lovable.app">
-<strong>✨ Explore My Portfolio →</strong>
-</a>
-</p>
+- 💻 Software Engineer passionate about building scalable and user-focused applications.
+- 🌐 Full-Stack Developer focused on modern web technologies and backend development.
+- 🤖 Exploring AI & Machine Learning to build intelligent solutions.
+- 🧩 Enjoy solving problems and turning ideas into real-world applications.
 
 <br>
 
@@ -57,8 +40,6 @@ scalable applications and solving real-world problems through technology.
 <div align="center">
 
 ## 💻 Tech Stack
-
-<br>
 
 ### 👨‍💻 Languages
 
@@ -150,7 +131,7 @@ scalable applications and solving real-world problems through technology.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adeeba-Aslam2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adeeba-Aslam2003&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
 <br><br>
 
@@ -158,7 +139,7 @@ scalable applications and solving real-world problems through technology.
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeeba-Aslam2003&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adeeba-Aslam2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -168,18 +149,70 @@ scalable applications and solving real-world problems through technology.
 
 <div align="center">
 
-## 🌱 Currently Exploring
+## 🔥 Contribution Graph
 
-**System Design** • **Backend Development** • **AI/ML** • **Scalable Architecture**
+<br>
 
-<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adeeba-Aslam2003&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+<br>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌱 Currently Exploring
+
+<br>
+
+**System Design**  
+**Backend Development**  
+**AI / Machine Learning**  
+**Scalable Architecture**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📬 Reach Out
+
+<br>
+
+I'm always open to connecting, collaborating,
+and discussing interesting ideas.
+
+<br>
 
 <a href="mailto:adeebaslam054@gmail.com">
-<img src="https://img.shields.io/badge/📩_Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+</td>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&color=gradient"/>
+</tr>
+</table>
+
+<br>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for Visiting!
+
+<p>
+Thanks for stopping by my GitHub profile.
+<br>
+Feel free to explore my projects and connect with me.
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=gradient"/>
 
 </div>
