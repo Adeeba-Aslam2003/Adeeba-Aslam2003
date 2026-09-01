@@ -130,8 +130,6 @@
 
 ---
 
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&text=%E2%9C%A8%20Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&fontAlignY=45&desc=Keep%20building%20%E2%80%A2%20Keep%20learning%20%E2%80%A2%20Keep%20growing&descSize=16&descAlignY=65&descAlign=50&animation=twinkling&color=gradient"/>
